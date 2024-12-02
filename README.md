@@ -12,7 +12,15 @@ WeatherNOW is an Android application that provides real-time weather updates bas
    - Key data like temperature and conditions are always visible at the top.
    - Additional metrics are displayed in scrollable fields.
    - A clean, minimalistic design ensures readability.
-4. **Dynamic Theme Support**: The app automatically adjusts to the system's light or dark mode for optimal user experience.
+4. **Dynamic Theme Support**: The app automatically adjusts to the phone's light or dark mode for optimal user experience.
+
+---
+
+<p align="center">
+<img src="images/Weatherapp2.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp3.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp1.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp4.jpg" alt="App Screenshot" width="200">
+</p>
+
+---
 
 # Installation and use
 
@@ -34,6 +42,14 @@ While developing the app I ran into several problems, some of which remain unsol
 1. Make the information stay on the screen after switching between the tiles. The ViewModel I created for this fragment did not work and I am unsure why.
 2. Include the city-search function to show the weather anywhere in the world. The back-end for this feature exists and is working. It can be found in the DashboardFragment.java. However, I am unable to display any of the information on the second fragment, despite all of my attempts. I am unable to make any changes to the elements that exist on that fragment.
 3. For the city-search function I want to include the drop-down menu with all locations, which will change depending on the entered information (like in Google Maps)
+   
+---
 
-# Contacts, Collaboration, and Final Thoughts:
+<p align="center">
+<img src="images/Weatherapp5.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp6.jpg" alt="App Screenshot" width="200">
+</p>
+
+---
+
+# Contact, Collaboration, and Final Thoughts:
 Feel free to email me at [oleh.zubariev@tcu.edu](mailto:oleh.zubariev@tcu.edu)  with all suggestions or work on this app yourself. You can also add me on LinkedIn, which you can find in my [GitHub profile README](https://github.com/olehzu). I would also appreciate any feedback or suggestions on how to fix the issues discussed in the previous paragraph. It was my first attempt to make an Android app, and I worked on it completely alone, learning information from various web sources. It taught me a lot about web development and self-learning and I got lots of experience in working on these sorts of projects. I am planning to continue working on this app, but I am also excited to start a new project in a different field to further expand my knowledge and see what part of software development interests me the most. 
