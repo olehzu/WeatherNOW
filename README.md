@@ -7,12 +7,12 @@ WeatherNOW is an Android application that provides real-time weather updates bas
 ## **Current Features**
 
 1. **Location-Based Weather**: After a user allows the app to use location services, it will load the weather data in the user's current location
-2. **Real-Time Updates**: Frequent updates via the Weatherstack API ensure accurate and up-to-date information.
+2. **Real-Time Updates**: Frequent updates via the Weatherstack API ensure accurate and up-to-date information
 3. **User-Friendly Interface**: 
-   - Key data like temperature and conditions are always visible at the top.
-   - Additional metrics are displayed in scrollable fields.
-   - A clean, minimalistic design ensures readability.
-4. **Dynamic Theme Support**: The app automatically adjusts to the phone's light or dark mode for optimal user experience.
+   - Key data like temperature and conditions are always visible at the top
+   - Additional metrics are displayed in scrollable fields
+   - A clean, minimalistic design ensures readability
+4. **Dynamic Theme Support**: The app automatically adjusts to the phone's light or dark mode for optimal user experience
 
 ---
 
@@ -32,16 +32,17 @@ WeatherNOW is an Android application that provides real-time weather updates bas
 
 - The app is made in Android Studio
 - Java is the main language used
-- The app uses Weatherstack API which provides all accurate weather reports. 
+- The app uses Weatherstack API which provides all accurate weather reports
 - Volley library is used to fetch the JSON data that is received from the API
-- LocationServices library is used for determining the current location.
+- LocationServices library is used for determining the current location
 
 # Future updates:
 
 While developing the app I ran into several problems, some of which remain unsolved. I would like to continue working on this app to finish some of the elements, which include:
-1. Make the information stay on the screen after switching between the tiles. The ViewModel I created for this fragment did not work and I am unsure why.
-2. Include the city-search function to show the weather anywhere in the world. The back-end for this feature exists and is working. It can be found in the DashboardFragment.java. However, I am unable to display any of the information on the second fragment, despite all of my attempts. I am unable to make any changes to the elements that exist on that fragment.
+1. Make the information stay on the screen after switching between the tiles. The ViewModel I created for this fragment did not work and I am unsure why
+2. Include the city-search function to show the weather anywhere in the world. The back-end for this feature exists and is working. It can be found in the DashboardFragment.java. However, I am unable to display any of the information on the second fragment, despite all of my attempts. I am unable to make any changes to the elements that exist on that fragment
 3. For the city-search function I want to include the drop-down menu with all locations, which will change depending on the entered information (like in Google Maps)
+4. A switch to change units from Celsius to Fahrenheit
    
 ---
 
