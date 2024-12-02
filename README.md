@@ -17,7 +17,7 @@ WeatherNOW is an Android application that provides real-time weather updates bas
 ---
 
 <p align="center">
-<img src="images/Weatherapp2.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp3.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp1.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp4.jpg" alt="App Screenshot" width="200">
+<img src="images/Weatherapp2.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp1.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp4.jpg" alt="App Screenshot" width="200"> 
 </p>
 
 ---
@@ -46,7 +46,7 @@ While developing the app I ran into several problems, some of which remain unsol
 ---
 
 <p align="center">
-<img src="images/Weatherapp5.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp6.jpg" alt="App Screenshot" width="200">
+<img src="images/Weatherapp5.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp3.jpg" alt="App Screenshot" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Weatherapp6.jpg" alt="App Screenshot" width="200">
 </p>
 
 ---
